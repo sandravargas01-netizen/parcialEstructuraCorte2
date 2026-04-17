@@ -1,14 +1,5 @@
 # Parcial Estructura de Datos Corte 2
 
-## 📌 Descripción
-Este proyecto contiene la implementación de:
-
-- Pila (LIFO) con objetos
-- Cola (FIFO) con números
-
-## 🧠 Tecnologías
-- JavaScript
-
 ## 📷 Imagen
 
-![Estructura de datos](https://upload.wikimedia.org/wikipedia/commons/5/5a/Stack_vs_Queue.png)
+![Pila estructura](https://miro.medium.com/v2/resize:fit:720/format:webp/1*5e9cXz9Yx8RJWb1x1o1tGQ.png)
